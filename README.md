@@ -1,7 +1,9 @@
 # TicTacToe
 
 . Created an engaging and interactive version of the classic Tic TacToe game using HTML, CSS, and JavaScript, delivering a fun andintuitive user experience.
+
 . Featuring a minimalist design, enables rapid matches and invitesyou to challenge friends or test yourself in an enjoyable game experience.
+
 . Utilized HTML to structure the web page (24.1%), employed CSS todesign the game with a minimalist aesthetic (30.2%), and leveraged JavaScript to implement game logic and drive interactivity (45.7%).
 
 You can see live at : https://pragyav284.github.io/TicTacToe/
